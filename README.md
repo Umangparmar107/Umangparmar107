@@ -44,20 +44,23 @@
 - MongoDB with an automatic JSON fallback, Django authentication and 12 unit tests
 - `Python` `Django` `MongoDB` `SQLite` `Bootstrap 5` `JavaScript`
 
-### 💼 [MicroJobs](https://github.com/Umangparmar107/FSD_1/tree/main/Micro_job) · micro-task marketplace · *team project*
-- A platform where users post small jobs and earn money by completing them in their free time
-- I built the user dashboard, the rating system and job-status tracking
-- `Python` `Flask` `MySQL` `JavaScript`
+### 💼 [MicroJobs](https://github.com/Umangparmar107/MicroJobs) · micro-task marketplace · *team project*
+- A Flask web app where students and freelancers find small paid tasks, and clients post them with a budget, category and deadline
+- Two roles (Job Worker and Job Creator), hashed passwords with Werkzeug, and login sessions
+- I built the user profile dashboard with job-status tracking for jobs applied to and jobs posted
+- `Python` `Flask` `MySQL` `Bootstrap 5` `Jinja2`
 
 ### 🎟️ [Event Management System](https://github.com/Umangparmar107/Event-management) · console booking app · *team project*
-- Organize events, manage venues, book venues by date and book tickets
+- Register and log in, manage venues, book a venue for a date, create events, book tickets and filter events by category
+- Data is stored in MySQL through JDBC prepared statements, with `LinkedList` and `HashMap` used in memory
 - I built the complete event booking and event viewing module
 - `Java` `JDBC` `MySQL` `Data Structures`
 
 ### 💬 [TextIt](https://github.com/Umangparmar107/TextItCLI) · console social network · *team project*
-- A social media platform in core Java with posts, follows and direct messages
+- A social network that runs in the terminal: posts, likes, comments, follows, chat and a careers page
+- Email OTP verification over Gmail SMTP, SHA-256 password hashing, and live notifications through PostgreSQL `LISTEN/NOTIFY`
 - I built the signup and login module and the user interface shown after login
-- `Java` `PostgreSQL` `Maven`
+- `Java 22` `PostgreSQL` `JDBC` `Maven` `JavaMail`
 
 ## 📜 Certifications
 
