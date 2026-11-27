@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396" role="img" aria-label="Umang Parmar, Aspiring AI/ML Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1022"/>
+      <stop offset="0.55" stop-color="#111A3A"/>
+      <stop offset="1" stop-color="#1E1550"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.82" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.15" cy="0.95" r="0.55">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#94A3B8" fill-opacity="0.13"/>
+    </pattern>
+    <filter id="soft" x="-1" y="-1" width="3" height="3">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.6" result="b"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#67E8F9" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#dots)"/>
+  <rect width="1584" height="396" fill="url(#glowA)"/>
+  <rect width="1584" height="396" fill="url(#glowB)"/>
+
+  <g stroke="#7DD3FC" stroke-opacity="0.16" stroke-width="1.2">
+    <line x1="110" y1="136" x2="230" y2="74"/><line x1="110" y1="136" x2="230" y2="136"/><line x1="110" y1="136" x2="230" y2="198"/><line x1="110" y1="136" x2="230" y2="260"/><line x1="110" y1="136" x2="230" y2="322"/><line x1="110" y1="198" x2="230" y2="74"/><line x1="110" y1="198" x2="230" y2="136"/><line x1="110" y1="198" x2="230" y2="198"/><line x1="110" y1="198" x2="230" y2="260"/><line x1="110" y1="198" x2="230" y2="322"/><line x1="110" y1="260" x2="230" y2="74"/><line x1="110" y1="260" x2="230" y2="136"/><line x1="110" y1="260" x2="230" y2="198"/><line x1="110" y1="260" x2="230" y2="260"/><line x1="110" y1="260" x2="230" y2="322"/><line x1="230" y1="74" x2="350" y2="74"/><line x1="230" y1="74" x2="350" y2="136"/><line x1="230" y1="74" x2="350" y2="198"/><line x1="230" y1="74" x2="350" y2="260"/><line x1="230" y1="74" x2="350" y2="322"/><line x1="230" y1="136" x2="350" y2="74"/><line x1="230" y1="136" x2="350" y2="136"/><line x1="230" y1="136" x2="350" y2="198"/><line x1="230" y1="136" x2="350" y2="260"/><line x1="230" y1="136" x2="350" y2="322"/><line x1="230" y1="198" x2="350" y2="74"/><line x1="230" y1="198" x2="350" y2="136"/><line x1="230" y1="198" x2="350" y2="198"/><line x1="230" y1="198" x2="350" y2="260"/><line x1="230" y1="198" x2="350" y2="322"/><line x1="230" y1="260" x2="350" y2="74"/><line x1="230" y1="260" x2="350" y2="136"/><line x1="230" y1="260" x2="350" y2="198"/><line x1="230" y1="260" x2="350" y2="260"/><line x1="230" y1="260" x2="350" y2="322"/><line x1="230" y1="322" x2="350" y2="74"/><line x1="230" y1="322" x2="350" y2="136"/><line x1="230" y1="322" x2="350" y2="198"/><line x1="230" y1="322" x2="350" y2="260"/><line x1="230" y1="322" x2="350" y2="322"/><line x1="350" y1="74" x2="470" y2="167"/><line x1="350" y1="74" x2="470" y2="229"/><line x1="350" y1="136" x2="470" y2="167"/><line x1="350" y1="136" x2="470" y2="229"/><line x1="350" y1="198" x2="470" y2="167"/><line x1="350" y1="198" x2="470" y2="229"/><line x1="350" y1="260" x2="470" y2="167"/><line x1="350" y1="260" x2="470" y2="229"/><line x1="350" y1="322" x2="470" y2="167"/><line x1="350" y1="322" x2="470" y2="229"/>
+  </g>
+  <g stroke="#67E8F9" stroke-opacity="0.85" stroke-width="2.6" stroke-linecap="round">
+    <line x1="110" y1="198" x2="230" y2="198"/><line x1="230" y1="198" x2="350" y2="136"/><line x1="350" y1="136" x2="470" y2="167"/>
+  </g>
+  <g>
+    <circle cx="110" cy="136" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="110" cy="198" r="13" fill="url(#node)" fill-opacity="1" filter="url(#soft)"/><circle cx="110" cy="260" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="230" cy="74" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="230" cy="136" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="230" cy="198" r="13" fill="url(#node)" fill-opacity="1" filter="url(#soft)"/><circle cx="230" cy="260" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="230" cy="322" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="350" cy="74" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="350" cy="136" r="13" fill="url(#node)" fill-opacity="1" filter="url(#soft)"/><circle cx="350" cy="198" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="350" cy="260" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="350" cy="322" r="10" fill="url(#node)" fill-opacity="0.75"/><circle cx="470" cy="167" r="13" fill="url(#node)" fill-opacity="1" filter="url(#soft)"/><circle cx="470" cy="229" r="10" fill="url(#node)" fill-opacity="0.75"/>
+  </g>
+
+  <text x="598" y="146" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="700" fill="#F8FAFC" letter-spacing="-1">Umang Parmar</text>
+  <text x="602" y="200" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="600" fill="url(#accent)">Aspiring AI/ML Engineer</text>
+  <text x="602" y="244" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#CBD5E1">B.Tech Computer Engineering · LJ University, Ahmedabad</text>
+  <rect x="602" y="278" width="104" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.06" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="1.5"/><text x="654" y="305" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#E2E8F0">Python</text><rect x="720" y="278" width="208" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.06" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="1.5"/><text x="824" y="305" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#E2E8F0">Machine Learning</text><rect x="942" y="278" width="177" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.06" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="1.5"/><text x="1030" y="305" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#E2E8F0">Data Analysis</text><rect x="1133" y="278" width="104" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.06" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="1.5"/><text x="1185" y="305" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#E2E8F0">Django</text>
+  <text x="1540" y="370" text-anchor="end" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#94A3B8">github.com/Umangparmar107</text>
+</svg>
